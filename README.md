@@ -28,7 +28,7 @@ print the characters and its huffmancode.
 - **Register Number:**  212223240011
 ```
 # Get the input String
-input_string = "NIRMAL"
+input_string = "ARAVIND"
 
 # Calculate frequency of each character in the input string
 frequency = {}
